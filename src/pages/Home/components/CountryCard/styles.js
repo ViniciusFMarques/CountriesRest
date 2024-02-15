@@ -22,9 +22,9 @@ export const Container = styled.section`
     transform: scale(1.1);
   }
 
-  @media (max-width: 450px){
+  @media (max-width: 470px){
     width: 224px;
-    height: 288px;
+    height: 390px;
 
     &:hover{
       transform: scale(1.1);
